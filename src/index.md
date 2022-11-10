@@ -3,9 +3,9 @@
 The DataJoint ecosystem is divided into 3 distinct areas: DataJoint Core, DataJoint
 Elements, and DataJoint Works.
 
-**DataJoint Core**
-
 ---
+
+**DataJoint Core**
 
 Open-source clients for managing data pipelines.
 
@@ -18,17 +18,17 @@ Open-source clients for managing data pipelines.
 
 [:octicons-arrow-right-24: Learn more](./core/)
 
-**DataJoint Elements**
-
 ---
+
+**DataJoint Elements**
 
 Open-source data pipelines for neuroscience built with DataJoint API for Python.
 
 [:octicons-arrow-right-24: Learn more](./elements/)
 
-**DataJoint Works**
-
 ---
+
+**DataJoint Works**
 
 Managed services for neurophysiology built with DataJoint Core and DataJoint Elements.
 
